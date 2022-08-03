@@ -5,3 +5,7 @@ Los temas entregados son:
 - Algoritmo _white patch_.
 - Histogramas.
 - Segmentación.
+
+## [TP N°2](https://github.com/cg-massobrio/CEIA-VCI/tree/main/tp_2)
+Los temas entregados son:
+- Filtros gaussianos.
