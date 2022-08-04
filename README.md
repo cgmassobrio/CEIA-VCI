@@ -9,3 +9,4 @@ Los temas entregados son:
 ## [TP N°2](https://github.com/cg-massobrio/CEIA-VCI/tree/main/tp_2)
 Los temas entregados son:
 - Filtros gaussianos.
+- Bordes. Algoritmo de Canny.
