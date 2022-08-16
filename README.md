@@ -18,3 +18,6 @@ En el caso de reconocimiento múltiple de patrones, se sube al repositorio para 
 
 ## [TP N°4](https://github.com/cg-massobrio/CEIA-VCI/tree/main/tp_4)
 Se entrega el desarrollo del algoritmo de texturas LBP. Se incluye la aplicación a un set de imágenes con los histogramas resultantes del procesamiento. 
+
+## [TP N°5](https://github.com/cg-massobrio/CEIA-VCI/tree/main/tp_5)
+Seguimiento
