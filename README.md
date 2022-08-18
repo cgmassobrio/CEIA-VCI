@@ -20,4 +20,4 @@ En el caso de reconocimiento múltiple de patrones, se sube al repositorio para 
 Se entrega el desarrollo del algoritmo de texturas LBP. Se incluye la aplicación a un set de imágenes con los histogramas resultantes del procesamiento. 
 
 ## [TP N°5](https://github.com/cg-massobrio/CEIA-VCI/tree/main/tp_5)
-Seguimiento
+Implementación del método de detección de objetos en movimiento por substración de fondo o _método de Naive_. Se lo comparó con el método de mezclas gaussianas, implementado en openCV mediante el algoritmo MOG2.
