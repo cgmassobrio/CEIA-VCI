@@ -1,4 +1,6 @@
 # CEIA-VCI
+Este es el repositorio de la materia de Computer Vision de la [Carrera de Especialización en Inteligencia Artificial](https://lse.posgrados.fi.uba.ar/posgrados/especializaciones/inteligencia-artificial), del [Laboratorio de Sistemas Embebidos-FIUBA](https://lse.posgrados.fi.uba.ar/inicio)
+
 ## [TP N°1](https://github.com/cg-massobrio/CEIA-VCI/tree/main/tp_1)
 Los temas entregados son:
 - Coordenadas cromáticas.
